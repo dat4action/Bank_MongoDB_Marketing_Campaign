@@ -1,4 +1,4 @@
-![piggy_bank](../data/raw_data/piggy_bank.jpg)
+![piggy_bank](data/raw_data/piggy_bank.jpg)
 
 <br>
 
